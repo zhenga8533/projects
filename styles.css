@@ -1,0 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.project-container {
+    margin-bottom: 4rem;
+}
